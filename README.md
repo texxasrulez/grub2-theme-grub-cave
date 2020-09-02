@@ -4,7 +4,7 @@
 
 ### Latest Screenshot
 
-![ScreenShot](screenshot.png)  
+![ScreenShot](screenshot.gif)  
 
 Every image in this theme is a seperate entity and can be removed, changed or repositioned as you see fit in the theme.txt file.  
 
