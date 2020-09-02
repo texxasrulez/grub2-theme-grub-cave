@@ -1,0 +1,183 @@
+# The Grub Cave - Grub2 theme
+# Designed for 1920x1080 Resolution
+# Created by @texxasrulez
+
+# Global Property
+title-text: ""
+title-font: "FreeSans Regular 22"
+title-color: "#ffffff"
+message-font: "FreeSans Regular 22"
+message-color: "#ffffff"
+message-bg-color: "#f2f2f2"
+desktop-image: "background.png"
+desktop-color: "#000000"
+terminal-box: "term_bkg_*.png"
+terminal-font: "FreeSans Regular 22"
+
+
++ image {
+		top = 0%
+		left = 0%+10
+		width = 150
+		height = 190
+		file = "debian-neon-sign.png"
+}
+
++ image {
+		top = 0%+20
+		left = 12%+10
+		width = 143
+		height = 200
+		file = "pantera-cfh.png"
+}
+
++ image {
+		top = 0%+20
+		left = 23%+10
+		width = 140
+		height = 200
+		file = "pantera-poster-cfh.png"
+}
+
++ image {
+		top = 0%+10
+		left = 50%-350
+		width = 700
+		height = 232
+		file = "longhorn-skull.png"
+}
+
++ image {
+		top = 0%+1
+		left = 100%-301
+		width = 300
+		height = 232
+		file = "texas-neon-sign.png"
+}
+
++ image {
+		top = 3%
+		left = 70%
+		width = 200
+		height = 194
+		file = "2-bass-mount.png"
+}
+
++ image {
+		top = 25%
+		left = 100%-546
+		width = 545
+		height = 350
+		file = "chiclid-tank.png"
+}
+
++ image {
+		top = 25%
+		left = 100%-546
+		width = 545
+		height = 327
+		file = "chiclid-tank-bg.png"
+}
+
++ image {
+		top = 35%-8
+		left = 8%+8
+		width = 175
+		height = 175
+		file = "texas-dartboard.png"
+}
+
++ image {
+		top = 28%
+		left = 8%
+		width = 300
+		height = 132
+		file = "ball-python.png"
+}
+
++ image {
+		top = 31%
+		left = 3%
+		width = 432
+		height = 305
+		file = "dartboard-case.png"
+}
+
++ image {
+		top = 35%-150
+		left = 43%
+		width = 85
+		height = 150
+		file = "texas-silver-star-whiskey.png"
+}
+
++ image {
+		top = 35%-150
+		left = 53%
+		width = 85
+		height = 150
+		file = "texas-silver-star-honey.png"
+}
+
++ image {
+		top = 35%-125
+		left = 50%-50
+		width = 49
+		height = 125
+		file = "shinerbock.png"
+}
+
++ image {
+		top = 35%-125
+		left = 50%
+		width = 49
+		height = 125
+		file = "shiner-prickley-pear.png"
+}
+
+# Show the boot menu
++ boot_menu {
+		left = 50%-390
+		width = 780
+		top = 35%
+		height = 490
+		item_font = "FreeSans Regular 22"
+		selected_item_font = "FreeSans Bold 22"
+		item_color = "#ffffff"
+		selected_item_color = "#000000"
+		icon_width = 48
+		icon_height = 48
+		item_icon_space = 20
+		item_height = 55
+		item_padding = 3
+		item_spacing = 5
+		selected_item_pixmap_style= "select_bkg_*.png"
+		menu_pixmap_style = "menu_bkg_*.png"
+		scrollbar = false
+		scrollbar_width = 10
+		scrollbar_thumb = "sb_thumb_*.png"
+		scrollbar_frame = "sb_frame_*.png"
+}
+
+# Show a styled horizontal progress bar
++ progress_bar {
+		id = "__timeout__"
+		left = 30%
+		width = 800
+		top = 80%
+		height = 80
+		show_text = true
+		font = "FreeSans Regular 18"
+		text_color = "#c19714"
+		text = "Booting in %d seconds"
+		bar_style = "progress_bar_*.png"
+		highlight_style = "progress_highlight_*.png"
+}
+
++ image {
+		top = 35%+490
+		left = 50%-495
+		width = 1040
+		height = 125
+		file = "bar.png"
+}
