@@ -10,7 +10,7 @@ Every image in this theme is a seperate entity and can be removed, changed or re
 
 ### Included Icons ###
 
-| Operating System - OS Logo														| Operating System - OS Logo													| Operating System - OS Logo															| Operating System - OS Logo																|
+| Operating System & Logo															| Operating System & Logo														| Operating System & Logo																| Operating System & Logo																	|
 |:---																				|:---																			|:---																					|:---																						|
 | Alt Linux <img src="/grub-cave/icons/altlinux.png" width="64" height="64">		| FreeBSD <img src="/grub-cave/icons/freebsd.png" width="64" height="64">		| OpenMandrivia <img src="/grub-cave/icons/openmandriva.png" width="64" height="64">	| Ubuntu <img src="/grub-cave/icons/ubuntu.png" width="64" height="64">						|
 | Android <img src="/grub-cave/icons/android.png" width="64" height="64">			| Frugalware <img src="/grub-cave/icons/frugalware.png" width="64" height="64">	| OpenSuse <img src="/grub-cave/icons/opensuse.png" width="64" height="64">				| Ubuntu Gnome <img src="/grub-cave/icons/ubuntugnome.png" width="64" height="64">			|
