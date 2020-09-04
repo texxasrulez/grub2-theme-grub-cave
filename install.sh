@@ -38,7 +38,7 @@ prompt () {
 }
 
 # Welcome message
-prompt -s "\n\t*************************\n\t*  ${THEME_NAME} - Grub2 Theme  *\n\t*************************"
+prompt -s "\n\t*****************************\n\t*  ${THEME_NAME} - Grub2 Theme  *\n\t*****************************"
 
 # Check command avalibility
 function has_command() {

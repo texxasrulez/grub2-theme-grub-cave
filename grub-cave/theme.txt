@@ -89,7 +89,7 @@ terminal-font: "FreeSans Regular 22"
 
 + image {
 		top = 28%
-		left = 8%
+		left = 10%
 		width = 300
 		height = 132
 		file = "ball-python.png"
