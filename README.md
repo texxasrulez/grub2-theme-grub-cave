@@ -10,7 +10,7 @@ Every image in this theme is a seperate entity and can be removed, changed or re
 
 ### Included Icons ###
 
-| Operating System ---------- Logo													| Operating System ---------- Logo														| Operating System ---------- Logo															|
+| Operating System          Logo													| Operating System          Logo														| Operating System          Logo															|
 |---:																				|---:																					|---:																						|
 | Alipine Linux <img src="/grub-cave/icons/alpinelinux.png" width="64" height="64">	| GhostBSD <img src="/grub-cave/icons/ghostbsd.png" width="64" height="64">				| RaspberryPi OS <img src="/grub-cave/icons/raspberrypios.png" width="64" height="64">		|
 | Alt Linux <img src="/grub-cave/icons/altlinux.png" width="64" height="64">		| Guix <img src="/grub-cave/icons/guix.png" width="64" height="64">						| RedHat <img src="/grub-cave/icons/redhat.png" width="64" height="64">						|
